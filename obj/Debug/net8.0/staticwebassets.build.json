@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LGu2tsWx8heGynMIFDRWIG5jnP1U/4yn9qqCtwjR3ys=",
+  "Source": "watchesASP.Api",
+  "BasePath": "_content/watchesASP.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
